@@ -1,0 +1,10 @@
+MakeEmpty
+PrintToFile
+GetString true NON_WHITE
+PrintToFile
+GetString true ALPHA
+PrintToFile
+LengthIs
+CopyString
+PrintToScreen
+Quit

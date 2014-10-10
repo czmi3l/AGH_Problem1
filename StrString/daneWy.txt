@@ -1,0 +1,7 @@
+test
+
+
+fsaffsa423
+fsafd
+length of string fsafd is 5
+String to copy: fsafd Copy of string: fsafd

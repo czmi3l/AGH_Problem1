@@ -1,0 +1,14 @@
+﻿Build started 2014-10-10 23:05:03.
+     1>Project "C:\Users\Maciek\Documents\Visual Studio 2013\Projects\StrString\AGH_Problem1\StrString\StrString.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp StrString.cpp
+         StrString.cpp
+     1>c:\users\maciek\documents\visual studio 2013\projects\strstring\agh_problem1\strstring\strstring.cpp(205): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+         Main.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Maciek\Documents\Visual Studio 2013\Projects\StrString\AGH_Problem1\StrString\StrString.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.52
