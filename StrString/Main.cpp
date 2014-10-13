@@ -73,6 +73,9 @@ int main()
 		inFile >> command;
 	}
 	cout << "Testing completed." << endl;
+	inFile.close();
+	inData.close();
+	outFile.close();
 	return 0;
 }
 //Zamienia z string na InType
